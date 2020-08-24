@@ -1,0 +1,23 @@
+<?php include 'header.php';?>
+
+
+
+<iframe style="width:120px;height:240px; margin-top: 40px; margin-left: 30px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amarghosh07-21&language=en_IN&marketplace=amazon&region=IN&placement=B089DCXZFF&asins=B089DCXZFF&linkId=f7ba6b0ec60cff56cfb4fa3a19443c1d&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px; margin-top: 10px; margin-left: 30px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amarghosh07-21&language=en_IN&marketplace=amazon&region=IN&placement=B0885QBSVD&asins=B0885QBSVD&linkId=590f2d65ef4abfc91c7df7a72a06c292&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px; margin-top: 10px; margin-left: 30px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amarghosh07-21&language=en_IN&marketplace=amazon&region=IN&placement=B088PJDSZH&asins=B088PJDSZH&linkId=ba50d3ce9bd485233a24d1c827530beb&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px; margin-top: 10px; margin-left: 30px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amarghosh07-21&language=en_IN&marketplace=amazon&region=IN&placement=B0879JZSQ5&asins=B0879JZSQ5&linkId=ad8fba8b630419f08b1033067480173c&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px; margin-top: 10px; margin-left: 30px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amarghosh07-21&language=en_IN&marketplace=amazon&region=IN&placement=B089DKPZCK&asins=B089DKPZCK&linkId=feed0dd3debcede3ed52c8ff3f310f5a&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px; margin-top: 10px; margin-left: 30px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amarghosh07-21&language=en_IN&marketplace=amazon&region=IN&placement=B089DMG5L8&asins=B089DMG5L8&linkId=585ce66794ee20b4cc40fcb2f159f4a3&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px; margin-top: 10px; margin-left: 30px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amarghosh07-21&language=en_IN&marketplace=amazon&region=IN&placement=B089MBLLYR&asins=B089MBLLYR&linkId=f74ccbb56e6175809d54aa2e2291b49f&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px; margin-top: 10px; margin-left: 30px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amarghosh07-21&language=en_IN&marketplace=amazon&region=IN&placement=B0897BSB3Z&asins=B0897BSB3Z&linkId=4cec8be5320ae0b6880ce9fa67c59171&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<iframe style="width:120px;height:240px; margin-top: 10px; margin-left: 30px" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=amarghosh07-21&language=en_IN&marketplace=amazon&region=IN&placement=B0892DXG9Q&asins=B0892DXG9Q&linkId=91be28930bb7d5f9487bba92edc674b5&show_border=false&link_opens_in_new_window=true"></iframe>
+
+<?php include 'footer.php';?>
